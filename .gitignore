@@ -1,0 +1,5 @@
+/target
+
+goproj/golib
+goproj/libgolib.a
+.DS_Store
